@@ -1,5 +1,5 @@
-# lerna-and-git
-NodeJS image with lerna and git installed
+# Docker image with node.js
+Yarn, lerna and git inside.
 
 
 https://hub.docker.com/repository/docker/justsl/lerna-and-git
